@@ -14,4 +14,4 @@ My interests lie broadly in representation learning, including the geometric dee
 I am deeply honored to be a Principal Investigator, funded by the [*Beijing Natural Science Foundation (BJNSF)*](https://nsf.kw.beijing.gov.cn/bjnsfweb/) during my undergraduate study.
 
 I have published in conferences (AAAI) and journals (Pattern Recognition). 
-My participated paper have been selected as *Oral Presentation* in AAAI. 
+My participated paper has been selected as *Oral Presentation* in AAAI. 
