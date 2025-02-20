@@ -17,5 +17,3 @@ I have published in conferences (AAAI) and journals (Pattern Recognition).
 My participated paper has been selected as *Oral Presentation* in AAAI. 
 
 I am extremely privileged to be the only student at UCAS to be awarded the *National 2-nd Scholarship for Hong Kong, Macao and Overseas Chinese students* (Undergraduate), by [Ministry of Education of the People's Republic of China](https://moe.gov.cn).
-
-![university](../images/logo.png)
