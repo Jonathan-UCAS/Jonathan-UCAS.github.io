@@ -51,4 +51,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Executive Member, Hong Kong Student Association Beijing (HKSABJ)
+* Certified Mentor for Emergency Aid, Foundation of UCAS
