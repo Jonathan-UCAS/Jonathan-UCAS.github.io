@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * 2021.09 - 2025.06, **B.Eng.** in School of Artificial Intelligence, University of Chinese Academy of Sciences.
-* 2024.01 - 2024.06, *Visiting Student* in School of Engineering, Hong Kong University of Science and Technology.
+* 2024.01 - 2024.06, **Visiting Student** in School of Engineering, Hong Kong University of Science and Technology.
 
 Work experience
 ======
