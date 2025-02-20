@@ -18,8 +18,7 @@ Work experience
 ======
 * Summer 2022 - Summer 2024: Research Assistant
   * Software Engineering Institute, East China Normal University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Xian Wei
 
 Publications
 ======
