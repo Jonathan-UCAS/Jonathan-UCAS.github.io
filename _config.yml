@@ -27,7 +27,7 @@ author:
   bio              : "4th Year Undergrad"
   location         : "Beijing / Hong Kong"
   employer         : "University of CAS"
-  uri              : # URL
+  uri              : "https://jonathan-ucas.github.io" # URL
   email            : "linchenghao21@mails.ucas.ac.cn" 
 
   # Academic websites
@@ -70,6 +70,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
+  xiaohongshu      : test
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
