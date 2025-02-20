@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Brief Introduction"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi, this is Shing-Ho Jonathan Lin (call me Jonathan) from Hong Kong, currently pursuing my undergraduate degree in *Artificial Intelligence* at the University of Chinese Academy of Sciences. 
-I had the privilege of being a visiting student at the [Schoolf of Engineering, Hong Kong University of Science and Technology](https://seng.hkust.edu.hk/).
+Hi, this is Shing-Ho Jonathan Lin (call me Jonathan) from Hong Kong, currently pursuing my undergraduate degree in [*Schoolf of Artificial Intelligence, University of Chinese Academy of Sciences*](ucas.ac.cn). 
+I had the privilege of being a visiting student at the [*Schoolf of Engineering, Hong Kong University of Science and Technology*](https://seng.hkust.edu.hk/).
 
 My interests lie broadly in representation learning, including the geometric deep learning (especially in Hyperbolic Geometry), as well as brain-inspired methods (Reservoir Computing), both having great publications. 
 I am deeply honored to be a Principal Investigator, funded by the Beijing Natural Science Foundation during my undergraduate study.
