@@ -2,7 +2,7 @@
 title: "Hyperbolic Prototype Rectification for Few-Shot 3D Point Cloud Classification"
 collection: publications
 category: manuscripts
-permalink: /publication/2025_PR_HPR
+permalink: /publication/2025/PR/HPR
 excerpt: ''
 date: 2025-02-01
 venue: 'Pattern Recognition'
