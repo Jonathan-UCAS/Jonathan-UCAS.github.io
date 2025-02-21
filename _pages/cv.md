@@ -41,7 +41,13 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Honors
+======
+* 2024.10 *2nd National 2nd Scholarship for Hong Kong, Macao and Overseas Chinese students*
+  * Awarded by **Ministry of Education of the People’s Republic of China**
+  * First in UCAS to receive, highest level
+
 Service and leadership
 ======
 * Executive Member, Hong Kong Student Association Beijing (HKSABJ)
