@@ -44,7 +44,7 @@ Teaching
 
 Honors
 ======
-* 2024.10 *2nd National 2nd Scholarship for Hong Kong, Macao and Overseas Chinese students*
+* 2024.10 *National 2nd Scholarship for Hong Kong, Macao and Overseas Chinese students*
   * Awarded by **Ministry of Education of the People’s Republic of China**
   * First in UCAS to receive, highest level
 
