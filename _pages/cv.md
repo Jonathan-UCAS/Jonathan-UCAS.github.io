@@ -22,7 +22,7 @@ Work experience
 
 * 2023.12 - 2025.04: Principal Investigator
   * School of Artificial Intelligence, University of Chinese Academy of Sciences
-  * Funded by Beijing Natural Science Foundation
+  * Funded by Beijing Natural Science Foundation (BJNSF)
 
 Publications
 ======
