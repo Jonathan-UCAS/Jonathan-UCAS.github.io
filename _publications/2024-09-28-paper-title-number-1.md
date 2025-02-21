@@ -6,8 +6,8 @@ permalink: /publication/2024-09-28-paper-title-number-1
 excerpt: ''
 date: 2025-02-01
 venue: 'Pattern Recognition'
-slidesurl: 'http://jonathan-ucas.github.io/files/slides1.pdf'
-paperurl: 'http://jonathan-ucas.github.io/files/1-s2.0-S0031320324007933-main.pdf'
+slidesurl: 'http://doi.org/10.1016/j.patcog.2024.111042'
+paperurl: 'http://doi.org/10.1016/j.patcog.2024.111042'
 citation: 'Y.-Z. Feng, S.-H. J. Lin, X. Tang, M.-Y. Wang, J.-Z. Zheng, Z.-Y. He, Z.-Y. Pang, J. Yang, M.-S. Chen, and X. Wei, "Hyperbolic prototype rectification for few-shot 3D point cloud classification," Pattern Recognition, vol. 158, p. 111042, 2025.'
 ---
 
