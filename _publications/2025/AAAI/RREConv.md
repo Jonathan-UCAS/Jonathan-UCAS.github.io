@@ -2,7 +2,7 @@
 title: "Relaxed Rotational Equivariance via G-Biases in Vision"
 collection: publications
 category: conferences
-permalink: /publication/2025_AAAI_RREConv
+permalink: /publication/2025/AAAI/RREConv
 excerpt: ''
 date: 2025-03-01
 venue: 'AAAI Conference on Artificial Intelligence (<span style="color:red">Selected as Oral</span>)'
