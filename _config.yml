@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Shing-Ho J. Lin"
 title_separator          : "-"
-name                     : &name "Shing-Ho J. Line"
+name                     : &name "Shing-Ho J. Lin"
 description              : &description "personal description"
 url                      : https://jonathan-ucas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -36,7 +36,7 @@ author:
   # googlescholar-square: "https://scholar.google.com/citations?user=4zUfmB8AAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-4888-192X"
-  researchgate     : "https://www.researchgate.net/profile/Shing-Ho-Lin" # URL
+  researchgate     : "" # URL https://www.researchgate.net/profile/Shing-Ho-Lin
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
