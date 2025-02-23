@@ -13,9 +13,12 @@ Previously I was a visiting student at the [*Schoolf of Engineering, Hong Kong U
 My interests lie broadly in representation learning, including the geometric deep learning (especially in Hyperbolic Geometry), as well as brain-inspired methods (Reservoir Computing), both having great publications. 
 I am deeply honored to be a Principal Investigator, funded by the [*Beijing Natural Science Foundation (BJNSF)*](https://nsf.kw.beijing.gov.cn/bjnsfweb/) during my undergraduate study.
 
-I have published in conferences (AAAI) and journals (Pattern Recognition). 
-My participated paper has been selected as *Oral Presentation* in AAAI. 
-
 I am extremely privileged to be the only student at UCAS to be awarded the *National 2nd Scholarship for Hong Kong, Macao and Overseas Chinese students* (Undergraduate), by [Ministry of Education of the People's Republic of China](https://moe.gov.cn).
 
 ![university](../images/logo.png)
+
+* [2024.12.10] 1 paper had been accepted by AAAI (*Oral Presentation*)
+* [2024.09.28] 1 paper had been accepted by Pattern Recognition
+
+Other papers are under review in CVPR, ICCV, IJCAI and IEEE TIP, and others are still in work or pending.
+
