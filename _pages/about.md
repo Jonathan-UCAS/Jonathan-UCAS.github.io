@@ -17,9 +17,8 @@ I am extremely privileged to be the only student at UCAS to be awarded the *Nati
 
 ![university](../images/logo.png)
 
-* [2025.02.26] Who the h*** knows~
 * [2024.12.10] 1 paper had been accepted by AAAI (*Oral Presentation*) (CCF-A)
 * [2024.09.20] 1 paper had been accepted by Pattern Recognition (CAS Tier 1 Top, IF7.5)
 
-Other papers are under review in CVPR, ICCV, IJCAI and IEEE TIP, and others are still in work or pending.
+Other papers are under review in IJCAI and IEEE TIP, and others are still in work or pending.
 
