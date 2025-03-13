@@ -6,7 +6,7 @@ permalink: /publication/2025/AAAI/RREConv
 excerpt: ''
 date: 2025-03-01
 venue: 'AAAI Conference on Artificial Intelligence (<span style="color:red">Selected as Oral</span>)'
-paperurl: 'https://arxiv.org/pdf/2408.12454'
+paperurl: 'https://openreview.net/forum?id=DfNDfjz6DO'
 citation: 'Z. Wu, Y. Liu, L. Sun, J. Yang, H. Dong, S.-H. J. Lin, X. Tang, J. Mi, B. Jin, and X. Wei, "Relaxed Rotational Equivariance via G-Biases in Vision," in AAAI Conference on Artificial Intelligence, 2025.'
 ---
 
