@@ -1,6 +1,6 @@
 ---
 title: "Lipschitz Constant Meets Condition Number: Learning Robust and Compact Deep Neural Networks"
-collection: preprint
+collection: publications
 category: preprint
 permalink: /publication/2025/arXiv/TSCNC
 excerpt: ''
