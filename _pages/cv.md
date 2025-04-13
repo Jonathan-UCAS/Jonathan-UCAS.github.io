@@ -50,7 +50,6 @@ Honors
 
 Service and leadership
 ======
-* Reviewer, ICCV 2025
 * Executive Member, Hong Kong Student Association Beijing (HKSABJ)
 * Certified Mentor for Emergency Aid, Foundation of UCAS
 * Student Member of IEEE, CAAI, CSIG
