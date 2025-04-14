@@ -13,7 +13,7 @@ Previously I was a visiting student at the [*Schoolf of Engineering, Hong Kong U
 My interests lie broadly in representation learning, including the geometric deep learning (especially in Hyperbolic Geometry), as well as brain-inspired methods (Reservoir Computing), both having great publications. 
 I am deeply honored to be a Principal Investigator, funded by the [*Beijing Natural Science Foundation (BJNSF)*](https://nsf.kw.beijing.gov.cn/bjnsfweb/) during my undergraduate study.
 
-I am extremely privileged to be the only recipient at UCAS to for the *National 2nd Scholarship for Hong Kong, Macao and Overseas Chinese students* (Undergraduate), by [Ministry of Education of the People's Republic of China](https://www.moe.gov.cn).
+I am extremely privileged to be the only recipient at UCAS for the *National 2nd Scholarship for Hong Kong, Macao and Overseas Chinese students* (Undergraduate, highest level), by [Ministry of Education of the People's Republic of China](https://www.moe.gov.cn).
 
 ![university](../images/logo.png)
 
