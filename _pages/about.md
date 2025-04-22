@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is Shing-Ho Jonathan Lin (call me Jonathan) from Hong Kong, currently pursuing my B.Eng. degree in [*School of Artificial Intelligence, University of Chinese Academy of Sciences (UCAS)*](https://www.ucas.ac.cn). 
+Hi, this is Shing-Ho J. Lin (call me Jonathan) from Hong Kong, currently pursuing my B.Eng. degree in [*School of Artificial Intelligence, University of Chinese Academy of Sciences (UCAS)*](https://www.ucas.ac.cn). 
 Previously I was a visiting student at the [*Schoolf of Engineering, Hong Kong University of Science and Technology (HKUST)*](https://seng.hkust.edu.hk/).
 
 I will be joining [*Department of Automation, Tsinghua University (THU)*](https://www.au.tsinghua.edu.cn/) from September 2025 to start my Master study.
