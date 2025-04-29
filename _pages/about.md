@@ -19,6 +19,6 @@ I am extremely privileged to be the only recipient at UCAS for the *National 2nd
 
 ![university](../images/logo.png)
 
-* [2025.04.29] 1 paper had been accepted by IJCAI (CCF-A)
-* [2024.12.10] 1 paper had been accepted by AAAI (*Oral Presentation*) (CCF-A)
+* [2025.04.29] 1 paper had been accepted by IJCAI (CCF-A, Acceptance Rate: 19.3%)
+* [2024.12.10] 1 paper had been accepted by AAAI (*Oral Presentation*) (CCF-A, Acceptance Rate: 23.4%; Oral Rate: ~10% of Accepted Papers)
 * [2024.09.20] 1 paper had been accepted by Pattern Recognition (CAS Tier 1 Top, IF7.5)
