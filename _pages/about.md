@@ -17,6 +17,6 @@ I am deeply honored to be a Principal Investigator, funded by the [*Beijing Natu
 
 I am extremely privileged to be the only recipient at UCAS for the *National 2nd Scholarship for Hong Kong, Macao and Overseas Chinese students* (Undergraduate, highest level), by [Ministry of Education of the People's Republic of China](https://www.moe.gov.cn).
 
-* [2025.04.29] 1 paper had been accepted by IJCAI (CCF-A, Acceptance Rate: 19.3%)
-* [2024.12.10] 1 paper had been accepted by AAAI (*Oral*) (CCF-A, Acceptance Rate: 23.4%; Oral Rate: ~10% of Accepted Papers)
+* [2025.04.29] 1 paper had been accepted by IJCAI-25 (CCF-A, Acceptance Rate: 19.3%)
+* [2024.12.10] 1 paper had been accepted by AAAI-25 (*Oral*) (CCF-A, Acceptance Rate: 23.4%; Oral Rate: ~10% of Accepted Papers)
 * [2024.09.20] 1 paper had been accepted by Pattern Recognition (CAS Tier 1 Top, IF7.5)
