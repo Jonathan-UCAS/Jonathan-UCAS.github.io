@@ -15,7 +15,7 @@ I will be joining [*Department of Automation, Tsinghua University (THU)*](https:
 My interests lie broadly in representation learning, including the geometric deep learning (especially in Hyperbolic Geometry), as well as brain-inspired methods (Reservoir Computing). 
 I am deeply honored to be a Principal Investigator, funded by the [*Beijing Natural Science Foundation (BJNSF)*](https://nsf.kw.beijing.gov.cn/bjnsfweb/) during my undergraduate study.
 
-I am extremely privileged to be the only recipient at UCAS for the *National 2nd Scholarship for Hong Kong, Macao and Overseas Chinese students* (Undergraduate, highest level), by [Ministry of Education of the People's Republic of China](https://www.moe.gov.cn).
+I am extremely privileged to be the only recipient at UCAS for the *National 2nd Scholarship for Hong Kong, Macao and Overseas Chinese students* (Undergraduate, highest level at UCAS), by [Ministry of Education of the People's Republic of China](https://www.moe.gov.cn).
 
 * [2025.04.29] 1 paper had been accepted by IJCAI-25 (CCF-A, Acceptance Rate: 19.3%)
 * [2024.12.10] 1 paper had been accepted by AAAI-25 (*Oral*) (CCF-A, Acceptance Rate: 23.4%; Oral Rate: ~10% of Accepted Papers)
