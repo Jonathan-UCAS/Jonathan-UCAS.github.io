@@ -24,9 +24,11 @@ quand vais-je croiser des trajectoires de vie
 Je vois mais je ne peux pas atteindre
 
 J'ai mis deux ans à réaliser.
+
 Je vois mais je ne peux pas atteindre.
 
 Ton été peut se passer de ma présence, 
+
 et je te demande aussi de ne plus entrer dans mon été. 
 
 Jonathan, 2025 05 11
