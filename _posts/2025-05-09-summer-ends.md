@@ -12,10 +12,15 @@ Summer Ends
 ======
 
 Il pleut fort et irrigue le fond du cœur. 
+
 Mais la pluie ne peut pas éteindre
+
 mes palpitations
+
 Cette personne iridescent
+
 quand vais-je croiser des trajectoires de vie
+
 Je vois mais je ne peux pas atteindre
 
 J'ai mis deux ans à réaliser.
