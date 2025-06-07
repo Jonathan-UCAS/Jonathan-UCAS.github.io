@@ -45,6 +45,9 @@ Teaching
 
 Honors
 ======
+* 2025.06 *Excellent Bachelor's Thesis*
+  * Awarded by **University of Chinese Academy of Sciences**
+  * Top <10%
 * 2024.10 *National 2nd Scholarship for Hong Kong, Macao and Overseas Chinese students*
   * Awarded by **Ministry of Education of the People’s Republic of China**
   * First in UCAS to receive, highest level
