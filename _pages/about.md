@@ -19,5 +19,5 @@ I am extremely privileged to be the only recipient at UCAS for the *National 2nd
 
 * [2025.06.05] My Bachelor's Thesis has been selected as *Excellent Bachelor's Thesis* by UCAS
 * [2025.04.29] 1 paper had been accepted by IJCAI-25 (CCF-A, Acceptance Rate: 19.3%)
-* [2024.12.10] 1 paper had been accepted by AAAI-25 (*Oral*) (CCF-A, Acceptance Rate: 23.4%; Oral Rate: ~10% of Accepted Papers)
+* [2024.12.10] 1 paper had been accepted by AAAI-25 (*Oral*) (CCF-A, Acceptance Rate: 23.4%; Oral Rate: ~5%)
 * [2024.09.20] 1 paper had been accepted by Pattern Recognition (CAS Tier 1 Top, IF7.5)
