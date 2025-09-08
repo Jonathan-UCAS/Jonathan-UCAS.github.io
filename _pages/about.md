@@ -10,7 +10,7 @@ redirect_from:
 Hi, this is Shing-Ho J. Lin (call me Jonathan) from Hong Kong. I obtained my B.Eng. degree from [*School of Artificial Intelligence, University of Chinese Academy of Sciences (UCAS)*](https://www.ucas.ac.cn) in June 2025. 
 Previously, I was a visiting student at the [*School of Engineering, Hong Kong University of Science and Technology (HKUST)*](https://seng.hkust.edu.hk/).
 
-Currently, I am affiliated with the [*Institute of Information Processing, Department of Automation, Tsinghua University (THU)*](https://www.au.tsinghua.edu.cn/szdw/jsdw1/ayjscz/xxclyjs.htm) as ***Academic Master Student*** (or ***MPhil Student***), under the supervision of Prof. Jie Zhou and Prof. Jiwen Lu.
+Currently, I am affiliated with the [*Institute of Information Processing, Department of Automation, Tsinghua University (THU)*](https://www.au.tsinghua.edu.cn/szdw/jsdw1/ayjscz/xxclyjs.htm) as ***Academic Master Student*** (or ***MPhil Student***), under the joint supervision of [Prof. Jie Zhou](https://www.au.tsinghua.edu.cn/info/1084/1699.htm) and [Prof. Jiwen Lu](https://www.au.tsinghua.edu.cn/info/1096/2329.htm).
 
 Previously, my interests lay broadly in representation learning, including geometric deep learning (especially in Hyperbolic Geometry), as well as brain-inspired methods (Reservoir Computing). 
 I was deeply honored to be a Principal Investigator, funded by the [*Beijing Natural Science Foundation (BJNSF)*](https://nsf.kw.beijing.gov.cn/bjnsfweb/) during my undergraduate study from 2023 to 2025.
