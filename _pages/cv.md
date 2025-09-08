@@ -59,3 +59,7 @@ Service and leadership
 * Executive Member, Hong Kong Student Association Beijing (HKSABJ)
 * Certified Mentor for Emergency Aid, Foundation of UCAS
 * Student Member of IEEE, CAAI, CSIG
+
+Language
+======
+* Cantonese, Chinese, Fuzhounese, English (UK), German (Entry)
