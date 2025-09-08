@@ -62,4 +62,4 @@ Service and leadership
 
 Language
 ======
-* Cantonese, Chinese, Fuzhounese, English (UK), German (Entry)
+* Mandarin Chinese, Cantonese, Fuzhounese, English (UK), German (Entry)
