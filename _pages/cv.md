@@ -23,7 +23,7 @@ Work experience
 
 * 2023.12 - 2025.04: Principal Investigator
   * Supported by the School of Artificial Intelligence, University of Chinese Academy of Sciences.
-  * Also work with the State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, Chinese Academy of Sciences.
+  * Also worked with the State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, Chinese Academy of Sciences.
   * Funded by Beijing Natural Science Foundation (BJNSF)
 
 Honors
