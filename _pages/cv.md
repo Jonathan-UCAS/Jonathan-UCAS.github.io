@@ -19,7 +19,7 @@ Work experience
 ======
 * 2022.07 - 2024.08: Research Assistant
   * Software Engineering Institute, East China Normal University
-  * Supervisor: Professor Xian Wei
+  * Supervisor: Xian Wei, Research Professor
 
 * 2023.12 - 2025.04: Principal Investigator
   * Supported by the School of Artificial Intelligence, University of Chinese Academy of Sciences.
