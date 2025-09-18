@@ -56,6 +56,7 @@ Teaching
 Service and leadership
 ======
 * Reviewer, ICCV 2025
+* Graduate Student Member, IEEE, 2026
 * Member, Undergraduate Admissions Committee for Jilin Province, UCAS, 2025
 * Executive Member, Hong Kong Student Association Beijing (HKSABJ)
 * Certified Mentor for Emergency Aid, Foundation of UCAS
