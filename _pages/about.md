@@ -18,7 +18,7 @@ I was deeply honored to be a Principal Investigator, funded by the [*Beijing Nat
 
 I am extremely privileged to be the only recipient at UCAS for the *National 2nd Scholarship for Hong Kong, Macao and Overseas Chinese students* (Undergraduate, highest level at UCAS), by [Ministry of Education of the People's Republic of China](https://www.moe.gov.cn).
 
-* [2025.06.05] My Bachelor's Thesis has been selected as *Excellent Bachelor's Thesis* by UCAS (Ranked 2/70). [Prof. Shiming Xiang](https://people.ucas.ac.cn/~xiangshiming) is the Chair of the Defense Committee of my session.
+* [2025.06.05] My Bachelor's Thesis has been selected as *Excellent Bachelor's Thesis* by UCAS (Ranked 2/70). Honoured to have [Prof. Shiming Xiang](https://people.ucas.ac.cn/~xiangshiming) as the Chair of the Defense Committee of my session.
 * [2025.04.29] 1 paper had been accepted by IJCAI-25 (CCF-A, Acceptance Rate: 19.3%)
 * [2024.12.10] 1 paper had been accepted by AAAI-25 (*Oral*) (CCF-A, Acceptance Rate: 23.4%)
 * [2024.09.20] 1 paper had been accepted by Pattern Recognition (CAS Tier 1 Top, IF7.5)
