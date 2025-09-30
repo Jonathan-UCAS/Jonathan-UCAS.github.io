@@ -18,7 +18,7 @@ Says Professor Cheng-Lin Liu in his recommendation letter.
 I hadn't been able to read the recommendation until today, when I spent a month at Tsinghua. 
 Tsinghua's graduate application system is entirely online, which means I will need to invite professors to submit their recommendation letters online by sending them a link.
 
-That being said, I don't get the chance to read it, unless the professor asks me to prepare a draft, or I get admitted and am required to submit a signed paper copy.
+That means, I don't get the chance to read it, unless the professor asks me to prepare a draft, or I get admitted and am required to submit a signed paper copy.
 
 Although I was eventually admitted, I completely forgot to prepare the paper copy. It wasn't until a week ago that the staff at Tsinghua required me to submit the letter ASAP. 
 
